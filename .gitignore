@@ -7,3 +7,5 @@ XMPCore/build/Makefile
 XMPCore/build/cmake_install.cmake
 XMPFiles/build/Makefile
 XMPFiles/build/XMPFiles64.cbp
+XMPCore/build/buildData/
+XMPFiles/build/buildData/
